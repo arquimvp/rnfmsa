@@ -25,6 +25,12 @@ cd rnfmsa
 yarn
 npx pod-install
 ```
+
+## Run the app on the platform you want
+```sh
+yarn ios
+yarn android
+```
 ## License
 MIT
 **Free Software, always!**
